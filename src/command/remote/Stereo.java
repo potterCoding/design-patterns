@@ -1,0 +1,40 @@
+package command.remote;
+
+/**
+ * @author: Java伴我余生
+ * @date: 2021-06-28
+ * @description: 音响具体类
+ */
+public class Stereo {
+	String location;
+
+	public Stereo(String location) {
+		this.location = location;
+	}
+
+	public void on() {
+		System.out.println(location + " stereo is on");
+	}
+
+	public void off() {
+		System.out.println(location + " stereo is off");
+	}
+
+	public void setCD() {
+		System.out.println(location + " stereo is set for CD input");
+	}
+
+	public void setDVD() {
+		System.out.println(location + " stereo is set for DVD input");
+	}
+
+	public void setRadio() {
+		System.out.println(location + " stereo is set for Radio");
+	}
+
+	public void setVolume(int volume) {
+		// code to set the volume
+		// valid range: 1-11 (after all 11 is better than 10, right?)
+		System.out.println(location + " stereo volume set to " + volume);
+	}
+}

@@ -1,7 +1,7 @@
 package decorator;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-24
  * @description: 调料
  * 首先必须将Condiment能够取代Beverage，所以将Condiment扩展自Beverage

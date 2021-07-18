@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-24
  * @description: 由于java.io包内的很多类都是用装饰者模式
  * BufferedInputStream及LineNumberInputStream都扩展自FilterInputStream，而FilterInputStream是一个抽象的装饰类。

@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-24
  * @description: 简单的Swing应用
  */

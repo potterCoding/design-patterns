@@ -1,7 +1,7 @@
 package factory.absfac;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-28
  * @description: 纽约的原料工厂实现
  * 这工厂专精于大蒜番茄酱料、Reggiano 干酪、新鲜蛤蜊...

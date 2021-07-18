@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-23
  * @description: WeatherData实现了subject接口
  */

@@ -1,7 +1,7 @@
 package facade.hometheater;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-07-02
  * @description: 构造家庭影院外观
  */

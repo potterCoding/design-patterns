@@ -1,7 +1,7 @@
 package adapter.ducks;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-07-02
  * @description: 火鸡适配器
  */

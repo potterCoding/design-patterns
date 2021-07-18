@@ -5,7 +5,7 @@ import com.sun.org.apache.regexp.internal.RE;
 import java.io.Serializable;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-28
  * @description: 饿汉模式
  *

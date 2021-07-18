@@ -1,7 +1,7 @@
 package factory.methd;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-25
  * @description: 芝加哥披萨门店
  */

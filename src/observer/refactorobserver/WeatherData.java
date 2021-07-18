@@ -3,7 +3,7 @@ package observer.refactorobserver;
 import java.util.Observable;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-24
  * @description: 利用Java内置的观察者模式实现
  * 我们不再需要追踪观察者了，也不需要管理注册与删除（让超类代劳即可）。

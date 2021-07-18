@@ -1,7 +1,7 @@
 package command.remote;
 
 /**
- * @author: Java伴我余生
+ * @author: 小懒编程日记
  * @date: 2021-06-28
  * @description: 关闭热水浴缸
  */
